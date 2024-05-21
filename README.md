@@ -2,6 +2,7 @@
     <h1>Aircrack-ng Lab Walkthrough</h1>
     <h2>Introduction</h2>
     <p>This guide will walk you through the TryHackMe Aircrack-ng lab, teaching you how to crack a WPA/WPA2 pre-shared key (PSK) using Aircrack-ng. Ensure you have access to TryHackMe and the necessary tools installed.</p>
+    - <b><a href="https://tryhackme.com/r/room/wifihacking101">TryHackMe Aircrack-ng Room</a></b>
     <h2>Prerequisites</h2>
     <ul>
         <li><strong>TryHackMe Account:</strong> Ensure you have an account on TryHackMe.</li>
